@@ -18,10 +18,10 @@ The aim of this project is to develop a forecasting system to predict the demand
 
 
 # Requirements
-Python
-Jupyter Notebook
-Google Colab (optional)
-Libraries:
+1) Python
+2) Jupyter Notebook or Google Colab (optional)
+   
+3) Libraries:
 Pandas
 NumPy
 Matplotlib
