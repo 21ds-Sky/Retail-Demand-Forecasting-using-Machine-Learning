@@ -1,0 +1,2 @@
+# Rio--125-Forecasting-System---Project-Demand-of-Products-at-a-Retail-Outlet-Based-on-historical-data
+The retail outlet under consideration thrives in a constantly changing and dynamic market. In order to efficiently manage inventory and meet the ever-shifting demands of customers, there arose a critical need for a smart and advanced forecasting system. This internship unfolded as a hands-on journey into the creation of precisely such a system.
