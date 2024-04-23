@@ -10,7 +10,6 @@ Implemented time series analysis techniques for trend and seasonality detection.
 
 Leveraged machine learning models for predictive analytics.
 
-Developed a user-friendly interface for demand visualization and analysis.
 
 Skills Demonstrated:
 -------------------------------------------------------
