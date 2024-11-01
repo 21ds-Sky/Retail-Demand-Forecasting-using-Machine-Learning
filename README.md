@@ -1,7 +1,9 @@
+![Project Banner](forecasting_banner.png)
+
 <h1 align="center">Forecasting System - Demand Prediction for Retail Outlet</h1>
 
 <p align="center">
-    <img src="images/forecasting_banner.png" alt="Project Banner" width="600"/>
+    
 </p>
 
 <p align="center">
